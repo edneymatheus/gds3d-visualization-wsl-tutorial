@@ -1,0 +1,265 @@
+LayerStart: Active
+Layer: 1
+Datatype: 0
+Height: 100
+Thickness: 50
+Red: 0.00
+Green: 1.00
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 1
+Show: 1
+LayerEnd
+
+LayerStart: Poly
+Layer: 5
+Datatype: 0
+Height: 150
+Thickness: 50
+Red: 1.00
+Green: 0.00
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 2
+Show: 1
+LayerEnd
+
+LayerStart: SalBlock
+Layer: 28
+Datatype: 0
+Height: 95
+Thickness: 5
+Red: 0.3
+Green: 0.3
+Blue: 0.3
+Filter: 0.0
+Metal: 0
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: Diff
+Layer: 29
+Datatype: 0
+Height: 110
+Thickness: 40
+Red: 0.7
+Green: 0.9
+Blue: 0.4
+Filter: 0.0
+Metal: 0
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: Contact
+Layer: 6
+Datatype: 0
+Height: 200
+Thickness: 50
+Red: 0.40
+Green: 0.20
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 3
+Show: 1
+LayerEnd
+
+LayerStart: Metal1
+Layer: 8
+Datatype: 0
+Height: 250
+Thickness: 150
+Red: 0.00
+Green: 0.00
+Blue: 1.00
+Filter: 0.0
+Metal: 1
+Shortkey: 4
+Show: 1
+LayerEnd
+
+LayerStart: Via1
+Layer: 19
+Datatype: 0
+Height: 410
+Thickness: 40
+Red: 1.00
+Green: 0.60
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 5
+Show: 1
+LayerEnd
+
+LayerStart: Metal2
+Layer: 10
+Datatype: 0
+Height: 460
+Thickness: 150
+Red: 0.00
+Green: 0.60
+Blue: 0.80
+Filter: 0.0
+Metal: 1
+Shortkey: 6
+Show: 1
+LayerEnd
+
+LayerStart: Via2
+Layer: 29
+Datatype: 0
+Height: 610
+Thickness: 40
+Red: 1.00
+Green: 0.30
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: Metal3
+Layer: 30
+Datatype: 0
+Height: 660
+Thickness: 150
+Red: 1.00
+Green: 0.00
+Blue: 0.00
+Filter: 0.0
+Metal: 1
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: Metal3b
+Layer: 30
+Datatype: 29
+Height: 660
+Thickness: 150
+Red: 0.00
+Green: 0.50
+Blue: 0.70
+Filter: 0.0
+Metal: 1
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: Via3
+Layer: 49
+Datatype: 0
+Height: 620
+Thickness: 40
+Red: 1.00
+Green: 0.60
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 7
+Show: 1
+LayerEnd
+
+LayerStart: Metal4
+Layer: 50
+Datatype: 0
+Height: 660
+Thickness: 150
+Red: 0.00
+Green: 0.50
+Blue: 0.50
+Filter: 0.0
+Metal: 1
+Shortkey: 8
+Show: 1
+LayerEnd
+
+LayerStart: Via4
+Layer: 66
+Datatype: 0
+Height: 810
+Thickness: 40
+Red: 1.00
+Green: 0.40
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 9
+Show: 1
+LayerEnd
+
+LayerStart: Metal5
+Layer: 67
+Datatype: 0
+Height: 850
+Thickness: 150
+Red: 0.00
+Green: 0.20
+Blue: 0.50
+Filter: 0.0
+Metal: 1
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: TopVia1
+Layer: 125
+Datatype: 0
+Height: 1010
+Thickness: 40
+Red: 1.00
+Green: 0.60
+Blue: 0.00
+Filter: 0.0
+Metal: 0
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: TopMetal1
+Layer: 126
+Datatype: 0
+Height: 1050
+Thickness: 150
+Red: 0.00
+Green: 0.20
+Blue: 0.60
+Filter: 0.0
+Metal: 1
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: TopVia2
+Layer: 133
+Datatype: 0
+Height: 1210
+Thickness: 40
+Red: 0.80
+Green: 0.50
+Blue: 0.10
+Filter: 0.0
+Metal: 0
+Shortkey: 0
+Show: 1
+LayerEnd
+
+LayerStart: TopMetal2
+Layer: 134
+Datatype: 0
+Height: 1250
+Thickness: 150
+Red: 0.00
+Green: 0.80
+Blue: 0.80
+Filter: 0.0
+Metal: 1
+Shortkey: 0
+Show: 1
+LayerEnd
