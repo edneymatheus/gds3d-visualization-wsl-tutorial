@@ -49,7 +49,7 @@ If you encounter issues with missing libraries, consider updating your system or
 1. Configure the `DISPLAY` variable
 To enable graphical output from your Linux environment to Windows, set the DISPLAY variable to the IP address of your WSL environment:
     ```bash
-    export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0
+    export DISPLAY=172.28.16.1:0
     ```
 2. Run **VcXsrv**
 Start VcXsrv using XLaunch and keep it running in the background to allow the graphical applications to display on your Windows screen.
